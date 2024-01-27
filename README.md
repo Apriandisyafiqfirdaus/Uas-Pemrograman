@@ -146,8 +146,7 @@ Dirancang untuk menyederhanakan dan mempercepat pengiriman aplikasi di berbagai 
 </div>
 
 
-7. <a href="https://apriandisyafiqfirdaus.github.io/websiteno7.github.io/">website untuk jawaban no 7</a>
-
+7. a href = https://github.com/Apriandisyafiqfirdaus/Uas-Pemrograman.git >
 
     
 
